@@ -1,5 +1,13 @@
 # 📚 Smart Study Planner
 
+---
+
+## 📸 Screenshot
+
+![App Screenshot](smartStudy.png)
+
+---
+
 A lightweight, browser-based study planning tool built with **HTML, CSS, and JavaScript**.  
 It helps students **organize tasks, set reminders, track progress, and visualize study plans** with a clean UI and timeline view.
 
@@ -54,13 +62,6 @@ cd smart-study-planner
 Simply open **index.html** in your preferred browser.  
 No server setup required – it runs locally in the browser.
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](smartStudy.png)
-
----
 
 ## 🔔 Notifications
 
