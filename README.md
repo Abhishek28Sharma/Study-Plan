@@ -33,7 +33,6 @@ It helps students **organize tasks, set reminders, track progress, and visualize
 - **HTML5** – structure
 - **CSS3** – modern styling with variables, shadows, and responsiveness
 - **JavaScript (Vanilla)** – localStorage, DOM manipulation, notifications, and timeline rendering
-- **Canvas API** – timeline chart visualization
 
 ---
 
